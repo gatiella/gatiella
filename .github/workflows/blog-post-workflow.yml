@@ -13,10 +13,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: Pull in dev posts
+      - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://dev.to/feed/tag/programming"
+          feed_list: "https://github.blog/feed/"
           max_post_count: 5
-          template: "- 🔐 [$title]($url)"
