@@ -1,12 +1,19 @@
 # Hi 👋, I'm Gatiella
 
+<div align="center">
+  
 ### Full-stack Developer | Mobile & Backend Specialist | Cybersecurity Enthusiast
 
-Passionate about building innovative solutions with Flutter, Go, Python, and continuously learning new technologies.
+*Passionate about building innovative solutions with Flutter, Go, Python, and continuously learning new technologies.*
 
-[📧 Email](mailto:gatungudaniel7410@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gatungudaniel7410%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gatungudaniel7410@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gatiella-181717?style=for-the-badge&logo=github)](https://github.com/gatiella)
+
+</div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🌟 About Me
 
@@ -15,61 +22,98 @@ Passionate about building innovative solutions with Flutter, Go, Python, and con
 - 💬 Ask me about **Flutter, Go, Python, Django, Firebase, API Development, Cybersecurity**
 - 📫 How to reach me: **gatungudaniel7410@gmail.com**
 - ⚡ Fun fact: **I love building secure and scalable applications!**
+- 🎯 2025 Goal: **Contribute more to Open Source projects**
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-### Mobile App Development:
-- Flutter (Dart)
-- Firebase (Authentication, Firestore, Cloud Functions, Storage)
+<details open>
+<summary><b>📱 Mobile App Development</b></summary>
+<br>
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 - Cross-platform mobile development
+- Firebase (Authentication, Firestore, Cloud Functions, Storage)
+- State Management & App Architecture
+</details>
 
-### Back-end Development:
-- Go (Golang)
-- Python, Django
-- PHP
+<details open>
+<summary><b>⚙️ Back-end Development</b></summary>
+<br>
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
 - RESTful APIs & API Development
-- Firebase Backend Services
+- Database Management (PostgreSQL, MySQL, Firebase)
+- Microservices Architecture
+</details>
 
-### Programming Languages:
-- Dart, Go, Python, Java, JavaScript, PHP
+<details open>
+<summary><b>🔐 Cybersecurity</b></summary>
+<br>
 
-### DevOps & CI/CD:
-- Docker
-- Git, GitHub Actions
-- CI/CD Pipelines
-- Version Control (Git, GitHub)
+![Security](https://img.shields.io/badge/-Security-000000?style=flat-square&logo=security&logoColor=white)
 
-### Cybersecurity:
-- Security best practices
-- Secure API development
-- Authentication & Authorization
+- Security best practices & Secure coding
+- API Security & Authentication
 - Penetration testing basics
+- OWASP Top 10
+</details>
 
-### Other Skills:
-- Database Management (Firebase, PostgreSQL, MySQL)
-- Cloud Services & Firebase
-- API Integration & Development
-- Agile Development
+<details open>
+<summary><b>🚀 DevOps & CI/CD</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+- Docker containerization
+- CI/CD Pipelines with GitHub Actions
+- Version Control (Git, GitHub)
+- Automated testing & deployment
+</details>
+
+<details>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gatiella&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gatiella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatiella&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gatiella&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gatiella&theme=radical&hide_border=true)
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gatiella&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### 💻 Most Used Languages
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+</div>
+
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gatiella&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
@@ -82,9 +126,13 @@ Passionate about building innovative solutions with Flutter, Go, Python, and con
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 GitHub Trophies
 
-![Achievement](https://github-profile-trophy.vercel.app/?username=gatiella&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=gatiella&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
 
 ---
 
