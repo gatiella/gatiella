@@ -286,6 +286,8 @@ Backend Engineering:
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/dev-oriel/Mboga-Fresh/pull/12) in [dev-oriel/Mboga-Fresh](https://github.com/dev-oriel/Mboga-Fresh)
+2. 💪 Opened PR [#12](https://github.com/dev-oriel/Mboga-Fresh/pull/12) in [dev-oriel/Mboga-Fresh](https://github.com/dev-oriel/Mboga-Fresh)
 <!--END_SECTION:activity-->
 
 ---
