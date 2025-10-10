@@ -175,29 +175,16 @@ Backend Engineering:
 
 ### 📈 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gatiella&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gatiella&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41" alt="Contribution Graph"/>
 </div>
 
 ### 🐍 Contribution Snake
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gatiella/gatiella/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gatiella/gatiella/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gatiella/gatiella/output/github-contribution-grid-snake.svg">
 </picture>
-
-### 📊 Detailed Metrics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gatiella&theme=github_dark" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gatiella&theme=github_dark" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gatiella&theme=github_dark" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gatiella&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gatiella&theme=github_dark" alt="Productive Time"/>
 </div>
 
 ---
@@ -286,8 +273,6 @@ Backend Engineering:
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/dev-oriel/Mboga-Fresh/pull/12) in [dev-oriel/Mboga-Fresh](https://github.com/dev-oriel/Mboga-Fresh)
-2. 💪 Opened PR [#12](https://github.com/dev-oriel/Mboga-Fresh/pull/12) in [dev-oriel/Mboga-Fresh](https://github.com/dev-oriel/Mboga-Fresh)
 <!--END_SECTION:activity-->
 
 ---
@@ -295,11 +280,6 @@ Backend Engineering:
 ### 📰 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/)
-- [GitHub Availability Report: September 2025](https://github.blog/news-insights/company-news/github-availability-report-september-2025/)
-- [Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile](https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/)
-- [How GitHub Copilot enabled accessibility governance process improvements in record time](https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/)
-- [How a top bug bounty researcher got their start in security](https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
