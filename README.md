@@ -279,11 +279,11 @@ Backend Engineering:
 ### 📰 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot tutorial: How to build, test, review, and ship code faster &lpar;with real prompts&rpar;](https://github.blog/ai-and-ml/github-copilot/a-developers-guide-to-writing-debugging-reviewing-and-shipping-code-faster-with-github-copilot/)
 - [GitHub Game Off 2025 theme announcement](https://github.blog/company/github-game-off-2025-theme-announcement/)
 - [Measuring what matters: How offline evaluation of GitHub MCP Server works](https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/)
 - [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/)
 - [Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/)
-- [Announcing the 2025 GitHub Partner Award winners 🎉](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
