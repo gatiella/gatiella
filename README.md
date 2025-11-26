@@ -270,8 +270,8 @@ Backend Engineering:
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [Ruthneemu/Butchee](https://github.com/Ruthneemu/Butchee)
-2. 💪 Opened PR [#32](undefined) in [Infospace-beta/Mboga-Fresh](https://github.com/Infospace-beta/Mboga-Fresh)
+1. 💪 Opened PR [#29](undefined) in [joe052/productive](https://github.com/joe052/productive)
+2. 💪 Opened PR [#2](undefined) in [Ruthneemu/Butchee](https://github.com/Ruthneemu/Butchee)
 <!--END_SECTION:activity-->
 
 ---
