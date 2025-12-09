@@ -279,11 +279,11 @@ Backend Engineering:
 ### 📰 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The new identity of a developer: What changes and what doesn’t in the AI era](https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/)
 - [How to use GitHub Copilot Spaces to debug issues faster](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/)
 - [Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security](https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/)
 - [“The local-first rebellion”: How Home Assistant became the most important project in your house](https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/)
 - [How to orchestrate agents using mission control](https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/)
-- [The ultimate gift guide for the developer in your life](https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
