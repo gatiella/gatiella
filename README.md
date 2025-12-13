@@ -279,11 +279,11 @@ Backend Engineering:
 ### 📰 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The future of AI-powered software optimization &lpar;and how it can help your team&rpar;](https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/)
 - [Let’s talk about GitHub Actions](https://github.blog/news-insights/product-news/lets-talk-about-github-actions/)
 - [GitHub Availability Report: November 2025](https://github.blog/news-insights/company-news/github-availability-report-november-2025/)
 - [MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents](https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/)
 - [Speed is nothing without control: How to keep quality high in the AI era](https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/)
-- [The new identity of a developer: What changes and what doesn’t in the AI era](https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
