@@ -279,11 +279,11 @@ Backend Engineering:
 ### 📰 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 - [Building AI-powered GitHub issue triage with the Copilot SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/)
 - [GitHub expands application security coverage with AI‑powered detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/)
 - [Rethinking open source mentorship in the AI era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/)
 - [How Squad runs coordinated AI agents inside your repository](https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/)
-- [Investing in the people shaping open source and securing the future together](https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
