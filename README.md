@@ -279,11 +279,11 @@ Backend Engineering:
 ### 📰 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/)
 - [Changes to GitHub Copilot Individual plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/)
 - [Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/)
 - [Building an emoji list generator with the GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/)
 - [Bringing more transparency to GitHub’s status page](https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/)
-- [How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
