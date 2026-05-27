@@ -283,7 +283,7 @@ Backend Engineering:
 - [GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/)
 - [Beyond the engine: 10 open source projects shaping how games actually get made](https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/)
 - [Building GitHub’s next chapter in accessibility](https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/)
-- [Investigating unauthorized access to GitHub-owned repositories](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/)
+- [Investigation update: GitHub Enterprise Server signing key rotation](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
