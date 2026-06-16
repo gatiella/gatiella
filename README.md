@@ -279,11 +279,11 @@ Backend Engineering:
 ### 📰 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot CLI for Beginners: Overview of common slash commands](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/)
+- [Accelerating researchers and developers building multilingual AI with a new open dataset](https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/)
 - [How we made GitHub Copilot CLI more selective about delegation](https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/)
 - [GitHub availability report: May 2026](https://github.blog/news-insights/company-news/github-availability-report-may-2026/)
 - [Making secret scanning more trustworthy: Reducing false positives at scale](https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/)
-- [Give GitHub Copilot CLI real code intelligence with language servers](https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/)
-- [From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
